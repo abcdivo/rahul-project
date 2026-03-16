@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>001_All_data_correct</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>e2a08288-75a6-4696-9182-85f427e96e87</testCaseGuid>
-</TestCaseEntity>
