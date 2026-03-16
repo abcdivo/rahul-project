@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_enter your passsword</name>
+   <tag></tag>
+   <elementGuidId>8e5c5a82-3b62-4f2d-a7b4-1715d5850eaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'userPassword']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'password' and @id = 'userPassword' and @placeholder = 'enter your passsword']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#userPassword</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e52b05c0-f5e7-49fe-a015-c3927aa488e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>60590e1e-8273-4614-b8aa-fb2bb5cccf34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>userPassword</value>
+      <webElementGuid>0dff4fa3-84de-4847-a6cd-91fdf38c3de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>userPassword</value>
+      <webElementGuid>c2f223b4-b3d0-4d1f-83a4-c650bebb02e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>enter your passsword</value>
+      <webElementGuid>36282c26-c2be-4323-ad99-948742050c2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>a94f5ca2-f23e-4611-a1cc-c9a6923b8e68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1bda6decc436c7db03d4ba04ae0e1f29</value>
+      <webElementGuid>8d10a63f-67a5-49bd-9b31-0bf3de82b758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'userPassword']</value>
+      <webElementGuid>bd7a6ee1-8e0d-468e-aadb-f5ba15e66ef0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'userPassword']</value>
+      <webElementGuid>ac731f04-edd4-4a52-9de5-5058e3de94b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @id = 'userPassword' and @placeholder = 'enter your passsword']</value>
+      <webElementGuid>1fa2779f-1ebc-4a2e-adc2-abc24dcf028a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
